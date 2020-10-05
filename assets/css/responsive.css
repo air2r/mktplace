@@ -1,0 +1,537 @@
+@media only screen and (max-width:1365px) {}
+
+@media only screen and (max-width:1199px) {
+
+    .filter-src-area {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .banner-content h2 {
+        font-size: 40px;
+    }
+
+    .banner-content h5 {
+        font-size: 18px;
+        color: #fff;
+    }
+
+    .menu-src-bar {
+        margin-right: 0;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .post-item .po-home-item-headitop h4,
+    .post-flex h5 {
+        font-size: 10px;
+    }
+
+    .error-box {
+        right: 5px;
+    }
+  
+.po-start-price.col-00af43 {
+    border-right: 0;
+}
+
+}
+@media (min-width: 991px) and (max-width: 1199px) {
+    .po-car-items .po-bedi-cont h6 {
+    font-size: 13px;
+}
+    .po-car-items  .po-bedi-cont p {
+    font-size: 12px;
+}
+    .po-car-items .po-car-item-left a h4 {
+    font-size: 16px;
+
+}
+.po-start-price h6 {
+    font-size: 12px;
+}
+    .po-start-price p {
+    font-size: 12px;
+}
+}
+/**************** Blog-Page Area End ****************/
+@media only screen and (max-width:991px) {
+
+    .transform-active {
+        position: relative;
+
+    }
+
+    .transform-active::after {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        content: "";
+        background: #fff;
+        z-index: 99;
+        transition: all .3s ease
+    }
+
+    .top-header p {
+        font-size: 10px;
+        margin-right: 20px;
+        margin: 0 10px 0 0;
+    }
+
+    .po-home-item {
+        flex-wrap: wrap;
+    }
+
+    .menu-src-bar input {
+        width: 320px;
+        font-size: 12px;
+    }
+
+    .po-home-item-right,
+    .po-home-item-left {
+        width: 100%;
+    }
+
+    .card-sin-jo a {
+        font-size: 16px;
+    }
+
+    .card-sin-jo a {
+        margin: 0 4px;
+        font-size: 14px;
+        padding: 3px 3px;
+    }
+
+    a.add-to-card {
+        order: 1;
+    }
+
+
+
+    .mo-none {
+        display: none !important
+    }
+
+    ul#navigation .pc-none,
+    .pc-none {
+        display: block;
+    }
+
+    .logo {
+        padding: 10px 0px;
+    }
+
+    .menu-src-bar {
+        position: absolute;
+        top: 100%;
+        width: auto;
+        left: 50%;
+        transform: translate(-50%);
+        display: none;
+    }
+
+    .card-sin-jo a i {
+        font-size: 16px;
+    }
+
+    .menu-src-bar input {
+        width: 320px;
+        padding: 10px;
+        background: #fff;
+    }
+
+    .card-sin-jo span {
+        top: -10px;
+        right: -8px;
+        height: 16px;
+        width: 16px;
+        font-size: 8px;
+    }
+
+    .po-home-item-right {
+        order: -1;
+    }
+
+    .po-home-img img {
+        width: 100%;
+    }
+
+    ul#navigation li a {
+        display: block;
+        padding: 6px 11px;
+        font-weight: 400;
+
+        font-size: 15px;
+
+    }
+
+    .mobile-sign-item.pc-none {
+        position: absolute;
+        top: 190px;
+        left: 0;
+        z-index: 999;
+        width: 100%;
+        opacity: 0;
+        visibility: hidden;
+        transition: all .3s ease
+    }
+
+    .mobile-sign-item.pc-none a {
+        display: block;
+        text-align: center;
+        font-size: 20px;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+    .transform-active .mobile-sign-item.pc-none {
+        opacity: 1;
+        visibility: visible
+    }
+
+    .input-box input,
+    .attachment-file-item label {
+        font-size: 14px;
+    }
+
+    .location-item a {
+        font-size: 11px;
+    }
+    .attachment-file-items {
+    flex-wrap: wrap;
+}
+    .attachment-file-item {
+    margin-top: 20px;
+}
+    .agency-information-items .input-box {
+    width: 48%;
+}
+    h6.error-all {
+    margin-top: 0;
+}
+}
+
+
+@media only screen and (max-width:767px) {
+
+    .fl-src,
+    .fl-filter,
+    .fl-room,
+    .fl-bathrooms,
+    .fl-others,
+    .fl-form,
+    .fl-price,
+    .fl-labels {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .home-top-menu ul li a {
+        padding: 12px 42px;
+    }
+
+    .po-home-item-headitop,
+    .po-bed-items,
+    .po-bed-items,
+    .po-bed-item,
+    .fl-clear-short {
+        flex-wrap: wrap;
+
+    }
+
+    .po-bed-item {
+        align-items: center;
+        margin: 10px 0;
+        text-align: center;
+        justify-content: center;
+    }
+
+
+    .po-bedicon {
+        width: 100%;
+        margin-right: 0;
+
+    }
+
+    .po-home-item-headitop h4 {
+        font-size: 18px;
+        margin-bottom: 0
+    }
+
+
+
+    .po-start-price {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .po-start-price.col-00af43 {
+        border-right: none;
+    }
+
+    .pagination ul li a {
+        padding: 4px 10px;
+    }
+
+    .fl-price {
+        margin-top: 20px;
+    }
+
+    #navigation {
+        top: 105px;
+    }
+
+    .sticky #navigation {
+        top: 83px;
+    }
+
+    .mobile-menu {
+        top: 60px;
+        margin-left: 10px;
+    }
+
+    .fl-clears {
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    .agencies-item .po-bedi-cont {
+        text-align: center;
+    }
+
+    .post-item .po-home-item-headitop h4,
+    .post-flex h5 {
+        font-size: 12px;
+    }
+
+    .post-item .po-home-item-heading p {
+        margin-top: 0px;
+    }
+
+    .slider-item {
+        height: 460px;
+    }
+
+    .posted-houses-area {
+        position: relative;
+        margin-top: 50px;
+    }
+
+    .slider-area .owl-dots {
+        right: 0;
+        top: 90%;
+        width: 100%;
+    }
+
+    .banner-content h2 {
+        font-size: 32px;
+    }
+
+    .banner-content h5 {
+        font-size: 16px;
+    }
+
+    .banner-btn a {
+        padding: 10px 40px
+    }
+
+    .posted-rearch input {
+        background: #ffff;
+        padding: 0 54px;
+        font-size: 12px;
+
+    }
+
+    button.srcicon {
+        box-shadow: 0 0px 26px 0 rgba(0, 0, 0, 0.2);
+    }
+
+    h2.fost-main-heading {
+        color: #1a1a1a;
+    }
+
+    .location-src {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .location-src .fl-form {
+        width: 100%;
+    }
+
+    .home-top-menu.care-memu ul li a {
+        padding: 10px 30px;
+    }
+
+    .fl-room.fl-bath-wi,
+    .fl-room.fl-rome-wi {
+        margin-right: 20px;
+    }
+
+    .fl-room {
+        margin-bottom: 20px;
+    }
+
+    .fl-room.fl-fuel-wi {
+        margin-right: 20px;
+    }
+
+    .po-start-card {
+        width: 100%;
+    }
+
+    .po-start-card .bg-0033a1 {
+        width: 100%;
+    }
+
+    .po-home-item-headitop > a {
+        margin-bottom: 6px;
+    }
+
+    .po-home-items .po-start-prices {
+        flex-wrap: wrap;
+    }
+
+    .po-home-items .po-start-price.col-00af43 {
+        width: 52%;
+    }
+
+    .po-home-items .po-start-price {
+        width: 48%;
+    }
+
+    .po-home-items .po-start-prices {
+        margin: 15px 0 0;
+    }
+
+
+    h2.sign-heading {
+        font-size: 30px;
+    }
+
+    .sing-up-flex,
+    .attachment-file-items,
+    .back-register {
+        flex-wrap: wrap;
+    }
+
+    .sing-up-left,
+    .sing-up-right,
+    .agency-information-items .input-box,
+    .attachment-file-item {
+        width: 100%;
+    }
+
+    .sing-up-flex::after {
+        display: none
+    }
+
+    .sing-up-right {
+        margin-top: 40px;
+    }
+
+    .attachment-file-item {
+        margin-top: 20px;
+    }
+
+    .input-box input,
+    .attachment-file-item label {
+        font-size: 16px;
+    }
+
+    .location-item a {
+        font-size: 16px;
+    }
+
+    .pd-area {
+        padding: 0 15px;
+    }
+
+    .back-register button.theme-btn.bg-none {
+        margin-bottom: 10px;
+    }
+
+    .error-box {
+        width: 220px;
+        right: 5px;
+    }
+
+    .error-content h4 {
+        font-size: 22px;
+    }
+
+    .error-content p {
+        margin-top: 6px;
+        font-size: 13px;
+    }
+    .post-item-img {
+    height: 334px;
+}
+    .sing-up-flex {
+    padding: 0 15px;
+}
+}
+
+@media only screen and (max-width:500px) {
+
+    .po-start-price h6 {
+        font-size: 12px;
+    }
+
+    .po-start-price p {
+        font-size: 12px;
+    }
+
+    .po-start-price.col-00af43 p span {
+        margin-right: 4px;
+    }
+
+/*
+.phone-code {
+    width: 80px;
+}
+img.arro-select {
+    padding-left: 0px;
+}
+*/
+}
+
+@media only screen and (max-width:360px) {
+    ul#navigation li a {
+        padding: 6px 5px;
+        font-size: 14px;
+    }
+
+    .post-flex h5 strong {
+        margin-left: 6px;
+    }
+
+    .post-item .po-home-item-headitop h4,
+    .post-flex h5 {
+        font-size: 11px;
+    }
+
+    .po-car-item-left a h4 {
+        font-size: 15px;
+    }
+
+    .pagination ul li a {
+        font-size: 10px;
+    }
+
+    .po-start-price h6 {
+        font-size: 10px;
+    }
+
+    .po-start-price p {
+        font-size: 10px;
+    }
+
+    .home-top-menu.care-memu ul li a {
+        padding: 8px 24px;
+    }
+
+}
